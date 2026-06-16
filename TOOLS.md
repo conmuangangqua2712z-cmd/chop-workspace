@@ -47,7 +47,7 @@ Skills:    13 skills ported từ claude-code-repo
 
 ## Chưa Có — Cần Setup
 
-- **GitHub CLI (gh)** — nếu cần tạo PR / review PR qua CLI
+- **GitHub CLI (gh)** — ✅ Đã cài (conmuangangqua2712z-cmd)
 - **Docker** — nếu cần sandbox hoặc chạy containers
 - **Email** — chưa configure email provider
 - **Calendar** — chưa integrate calendar
