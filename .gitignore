@@ -1,0 +1,21 @@
+# Workspace gitignore
+node_modules/
+.env
+*.log
+
+# Keep memory files tracked (they're important for Chớp)
+# But not secret files
+*.key
+*.pem
+token*
+secret*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
